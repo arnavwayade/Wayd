@@ -1,0 +1,2 @@
+# wayd
+Wayd AI 
